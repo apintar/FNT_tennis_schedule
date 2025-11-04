@@ -1,8 +1,8 @@
 ## Requirements
 
-numpy
-pandas
-openpyxl
+numpy  
+pandas  
+openpyxl  
 
 ## Example Call
 
